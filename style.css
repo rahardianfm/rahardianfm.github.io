@@ -55,6 +55,7 @@ body{
 }
 
 .header a p {
+    font-family: 'Lobster', cursive;
     margin-left: 30px;
     font-size: 24pt;
 }
