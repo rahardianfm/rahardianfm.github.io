@@ -190,10 +190,17 @@ body{
 .containerP1 .thumb img{
     width: 48px;
     cursor: pointer;
+    border: 1px solid #CBE3EB;
 }
 
 .containerP1 .thumb img:hover{
     opacity: 0.5;
+    box-shadow: none;
+}
+
+.containerP1 .canvas img{
+    
+    box-shadow: 2px 2px 5px 2px gray, -2px -2px 5px 2px gray;
 }
 
 .containerP1 .desc h3{
